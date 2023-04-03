@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Sum of Multiples
 
 Welcome to Sum of Multiples on Exercism's Rust Track.
